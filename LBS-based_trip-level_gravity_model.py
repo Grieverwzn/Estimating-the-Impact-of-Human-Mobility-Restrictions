@@ -1,5 +1,5 @@
 """
-Agent-Based Model Calibration using Gravity Model and Iterative Proportional Fitting (IPF)
+LBS-Based Model Calibration using Gravity Model and Iterative Proportional Fitting (IPF)
 
 Author: Xin Wu
         Villanova University
